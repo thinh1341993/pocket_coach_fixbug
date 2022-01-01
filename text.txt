@@ -1,0 +1,86 @@
+    const showHeader =  ()=>   
+    (
+      <View >
+        <Box
+            bg="white"
+            shadow={1}
+            rounded="lg"
+            style={{ marginBottom: 2, width: '95%'}}
+            >
+              <Stack space={4} style={{ padding: 15}} >
+                <View style={{flexDirection:'row',marginTop: 5}}>
+                    <Avatar
+                        source={{
+                        uri: data.avatar + '?random_number=' +hour,
+                        }}
+                    />
+                    <View style={{marginLeft:15, flexDirection:'column'}}>
+                        <Title style={{fontSize: 15, color: "#000"}}>{data.display_name}</Title>
+                        <Caption style={[styles.caption,{color: "#000"}]}>{moment(data.time).fromNow()}</Caption>
+                    </View>
+                </View>
+                <View >
+                    <ImageView
+                        images={zoomImage}
+                        imageIndex={0}
+                        isVisible={visible}
+                        renderFooter={(currentImage) => (<View><Text>My footer</Text></View>)}
+                        onClose={()=>setVisible(false)}
+                    />
+                    <TouchableOpacity onPress={() => zoomPhoto(data.photo_uri)}>
+                        <Image source={{uri: data.photo_uri}} 
+                          alt="image base" 
+                          resizeMode="cover" 
+                          height={100} 
+                          roundedTop="md" />
+                    </TouchableOpacity>
+                </View>
+
+                <Text lineHeight={[5, 5, 7]} noOfLines={[4, 4, 2]} color="#000">
+                {data.content}
+                </Text>
+                
+                <View style={{flexDirection:'row',marginTop: 2}}>
+                    <TouchableOpacity style={{marginRight: 15 }} onPress={()=> hundlLike(data)}>
+                        <Icon size={30} name={isLike ? "heart" :"ios-heart-outline"} style={{ color: Colors.btnSplash}} />
+                        <Text style={{textAlign: 'center', color: "#000"}}>{data.likes} </Text>
+                    </TouchableOpacity>
+                    <TouchableOpacity transparent onPress={()=> {}}>
+                        <Icon size={30} name="ios-chatbubbles-outline" style={{ color: Colors.btnSplash}} />
+                        <Text style={{textAlign: 'center', color: "#000"}}>{data.comments} </Text>
+                    </TouchableOpacity>
+                </View>
+              </Stack>
+        </Box>
+        <View  style={styles.action}>
+            <View >
+                <Icon backgroundColor="#fff" name="clipboard-outline" color={Colors.backgroundSplash} size={35} />
+            </View>               
+            <TextInput
+            placeholder="ajouter un commentaire..."
+            placeholderTextColor="#666666"
+            numberOfLines={2}
+            multiline={true}
+            onChangeText={(val) => textInputContent(val)}
+            style={{color: "#000000",width: '70%'}}
+            />
+            <TouchableOpacity onPress={()=> console.log("ok")} style={{justifyContent: 'center', alignItems: 'center', width:50, marginTop: 5, backgroundColor:"#fff" }}>
+                <Icon backgroundColor="#fff"   name="send-outline" color={Colors.backgroundSplash} size={30} />
+            </TouchableOpacity>
+        </View>
+      </View>
+    )
+
+
+
+        this.willShowSub = Keyboard.addListener('keyboardWillShow', invertibleProps.onKeyboardWillShow);
+        this.didShowSub = Keyboard.addListener('keyboardDidShow', invertibleProps.onKeyboardDidShow);
+        this.willHideSub = Keyboard.addListener('keyboardWillHide', invertibleProps.onKeyboardWillHide);
+        this.didHideSub = Keyboard.addListener('keyboardDidHide', invertibleProps.onKeyboardDidHide);
+
+
+
+    this.willShowSub?.remove();
+    this.didShowSub?.remove();
+    this.willHideSub?.remove();
+    this.didHideSub?.remove();

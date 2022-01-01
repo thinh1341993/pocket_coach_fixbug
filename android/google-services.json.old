@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1090599720135",
+    "project_id": "pocketcoach-e0dfc",
+    "storage_bucket": "pocketcoach-e0dfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090599720135:android:754970e1f574bd630c5ae2",
+        "android_client_info": {
+          "package_name": "com.pocket_coach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090599720135-krjermmuurliqj47gpqvs7mf0v8r7s87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6mC-MUlMAggvFCKypYbSbPate4A9Zdck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090599720135-krjermmuurliqj47gpqvs7mf0v8r7s87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

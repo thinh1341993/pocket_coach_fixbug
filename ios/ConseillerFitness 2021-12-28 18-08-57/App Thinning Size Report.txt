@@ -1,0 +1,155 @@
+
+App Thinning Size Report for All Variants of ConseillerFitness
+
+Variant: ConseillerFitness-05782D26-6B7F-45E2-8671-F6E8B7046C52.ipa
+Supported variant descriptors: [device: iPad6,3, os-version: 15.0], [device: iPad8,11, os-version: 15.0], [device: iPad7,4, os-version: 15.0], [device: iPad8,9, os-version: 15.0], [device: iPad6,4, os-version: 15.0], [device: iPad8,6, os-version: 15.0], [device: iPad11,3, os-version: 15.0], [device: iPad7,3, os-version: 15.0], [device: iPad8,1, os-version: 15.0], [device: iPad8,2, os-version: 15.0], [device: iPad13,6, os-version: 15.0], [device: iPad13,8, os-version: 15.0], [device: iPad13,4, os-version: 15.0], [device: iPad14,1, os-version: 15.0], [device: iPad11,2, os-version: 15.0], [device: iPad8,3, os-version: 15.0], [device: iPad11,4, os-version: 15.0], [device: iPad14,2, os-version: 15.0], [device: iPad13,9, os-version: 15.0], [device: iPad7,1, os-version: 15.0], [device: iPad13,2, os-version: 15.0], [device: iPad8,5, os-version: 15.0], [device: iPad13,11, os-version: 15.0], [device: iPad13,5, os-version: 15.0], [device: iPad8,12, os-version: 15.0], [device: iPad8,8, os-version: 15.0], [device: MacFamily20,1, os-version: 15.0], [device: iPad8,10, os-version: 15.0], [device: iPad13,7, os-version: 15.0], [device: iPad7,2, os-version: 15.0], [device: iPad11,1, os-version: 15.0], [device: iPad13,10, os-version: 15.0], [device: iPad8,4, os-version: 15.0], [device: iPad13,1, os-version: 15.0], and [device: iPad8,7, os-version: 15.0]
+App + On Demand Resources size: 7,3 MB compressed, 19,2 MB uncompressed
+App size: 7,3 MB compressed, 19,2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ConseillerFitness-09EC457D-6630-41C7-8DE7-4AA832CF8944.ipa
+Supported variant descriptors: [device: iPhone10,6, os-version: 12.2], [device: iPhone10,6, os-version: 12.0], [device: iPhone9,2, os-version: 12.2], [device: iPhone9,2, os-version: 11.0], [device: iPhone11,2, os-version: 12.0], [device: iPhone10,2, os-version: 12.2], [device: iPhone9,4, os-version: 11.0], [device: iPhone10,2, os-version: 12.0], [device: iPhone10,3, os-version: 12.2], [device: iPhone10,5, os-version: 12.2], [device: iPhone9,4, os-version: 12.2], [device: iPhone10,3, os-version: 12.0], [device: iPhone10,2, os-version: 11.0], [device: iPhone11,6, os-version: 12.0], [device: iPhone11,2, os-version: 12.2], [device: iPhone10,5, os-version: 12.0], [device: iPhone10,5, os-version: 11.0], [device: iPhone9,2, os-version: 12.0], [device: iPhone10,6, os-version: 11.0], [device: iPhone11,4, os-version: 12.0], [device: iPhone11,6, os-version: 12.2], [device: iPhone10,3, os-version: 11.0], [device: iPhone11,4, os-version: 12.2], and [device: iPhone9,4, os-version: 12.0]
+App + On Demand Resources size: 7,3 MB compressed, 19,2 MB uncompressed
+App size: 7,3 MB compressed, 19,2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ConseillerFitness-137A62E2-792B-4268-A9F1-7143C69D5C79.ipa
+Supported variant descriptors: [device: iPhone8,1, os-version: 15.0], [device: iPhone8,4, os-version: 15.0], and [device: iPod9,1, os-version: 15.0]
+App + On Demand Resources size: 7,3 MB compressed, 19,2 MB uncompressed
+App size: 7,3 MB compressed, 19,2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ConseillerFitness-3453DF70-9F5F-487D-93BE-5223FB0783BD.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 15.0]
+App + On Demand Resources size: 7,3 MB compressed, 19,2 MB uncompressed
+App size: 7,3 MB compressed, 19,2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ConseillerFitness-36100356-4A5D-47F5-BE9C-0A3FBD7D615C.ipa
+Supported variant descriptors: [device: iPhone13,3, os-version: 15.0], [device: iPhone12,3, os-version: 15.0], [device: iPhone10,5, os-version: 15.0], [device: iPhone14,2, os-version: 15.0], [device: iPhone10,2, os-version: 15.0], [device: iPhone10,3, os-version: 15.0], [device: iPhone13,2, os-version: 15.0], [device: iPhone13,4, os-version: 15.0], [device: iPhone14,4, os-version: 15.0], [device: iPhone9,4, os-version: 15.0], [device: iPhone12,5, os-version: 15.0], [device: iPhone14,3, os-version: 15.0], [device: iPhone14,5, os-version: 15.0], [device: iPhone11,4, os-version: 15.0], [device: iPhone11,2, os-version: 15.0], [device: iPhone10,6, os-version: 15.0], [device: iPhone11,6, os-version: 15.0], [device: iPhone9,2, os-version: 15.0], and [device: iPhone13,1, os-version: 15.0]
+App + On Demand Resources size: 7,3 MB compressed, 19,2 MB uncompressed
+App size: 7,3 MB compressed, 19,2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ConseillerFitness-3B90B99B-DBC8-4AC3-8811-3C2A588A300D.ipa
+Supported variant descriptors: [device: iPad8,7, os-version: 14.0], [device: iPad7,2, os-version: 13.0], [device: iPad8,6, os-version: 14.0], [device: iPad13,5, os-version: 14.0], [device: iPad6,4, os-version: 13.0], [device: iPad8,3, os-version: 13.0], [device: iPad8,5, os-version: 13.0], [device: iPad8,12, os-version: 13.0], [device: iPad11,3, os-version: 13.0], [device: iPad8,9, os-version: 13.0], [device: iPad8,11, os-version: 14.0], [device: iPad6,4, os-version: 14.0], [device: iPad8,2, os-version: 13.0], [device: iPad8,8, os-version: 13.0], [device: iPad8,4, os-version: 14.0], [device: iPad13,6, os-version: 14.0], [device: iPad7,3, os-version: 14.0], [device: iPad11,3, os-version: 14.0], [device: iPad8,6, os-version: 13.0], [device: iPad13,11, os-version: 14.0], [device: iPad13,8, os-version: 14.0], [device: iPad11,4, os-version: 13.0], [device: iPad11,2, os-version: 14.0], [device: iPad8,11, os-version: 13.0], [device: iPad8,10, os-version: 13.0], [device: iPad6,3, os-version: 13.0], [device: iPad13,1, os-version: 14.0], [device: iPad8,9, os-version: 14.0], [device: iPad7,4, os-version: 14.0], [device: iPad7,3, os-version: 13.0], [device: iPad8,4, os-version: 13.0], [device: iPad13,7, os-version: 14.0], [device: iPad6,3, os-version: 14.0], [device: iPad11,2, os-version: 13.0], [device: MacFamily20,1, os-version: 14.0], [device: iPad13,2, os-version: 14.0], [device: iPad8,1, os-version: 13.0], [device: iPad8,3, os-version: 14.0], [device: iPad7,1, os-version: 13.0], [device: iPad8,8, os-version: 14.0], [device: iPad7,4, os-version: 13.0], [device: iPad7,1, os-version: 14.0], [device: iPad8,5, os-version: 14.0], [device: iPad8,1, os-version: 14.0], [device: iPad11,1, os-version: 13.0], [device: iPad11,4, os-version: 14.0], [device: iPad13,4, os-version: 14.0], [device: iPad13,10, os-version: 14.0], [device: iPad8,12, os-version: 14.0], [device: iPad8,7, os-version: 13.0], [device: iPad8,10, os-version: 14.0], [device: iPad7,2, os-version: 14.0], [device: iPad11,1, os-version: 14.0], [device: iPad13,9, os-version: 14.0], and [device: iPad8,2, os-version: 14.0]
+App + On Demand Resources size: 7,3 MB compressed, 19,2 MB uncompressed
+App size: 7,3 MB compressed, 19,2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ConseillerFitness-6FDF934F-A7D3-4876-BF16-4E6CADB24157.ipa
+Supported variant descriptors: [device: iPhone12,1, os-version: 13.0], [device: iPhone11,8, os-version: 14.0], [device: iPhone11,8, os-version: 13.0], and [device: iPhone12,1, os-version: 14.0]
+App + On Demand Resources size: 7,3 MB compressed, 19,2 MB uncompressed
+App size: 7,3 MB compressed, 19,2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ConseillerFitness-77230A1D-2083-4D68-8166-CB04B4C5278F.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 15.0] and [device: iPhone12,1, os-version: 15.0]
+App + On Demand Resources size: 7,3 MB compressed, 19,2 MB uncompressed
+App size: 7,3 MB compressed, 19,2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ConseillerFitness-77846ED9-C4CD-483A-A991-75D50FA54E4A.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 12.2] and [device: iPhone11,8, os-version: 12.0]
+App + On Demand Resources size: 7,3 MB compressed, 19,2 MB uncompressed
+App size: 7,3 MB compressed, 19,2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ConseillerFitness-804D770B-A375-4289-AE93-C9B936378704.ipa
+Supported variant descriptors: [device: iPad6,11, os-version: 13.0], [device: iPad6,12, os-version: 13.0], [device: iPad6,7, os-version: 13.0], [device: iPad11,7, os-version: 14.0], [device: iPad7,12, os-version: 13.0], [device: iPad7,5, os-version: 14.0], [device: iPad6,12, os-version: 14.0], [device: iPad5,2, os-version: 14.0], [device: iPad7,6, os-version: 13.0], [device: iPad5,1, os-version: 14.0], [device: iPad5,3, os-version: 13.0], [device: iPad6,11, os-version: 14.0], [device: iPad6,8, os-version: 14.0], [device: iPad7,11, os-version: 14.0], [device: iPad5,3, os-version: 14.0], [device: iPad7,5, os-version: 13.0], [device: iPad5,4, os-version: 14.0], [device: iPad5,1, os-version: 13.0], [device: iPad6,8, os-version: 13.0], [device: iPad11,6, os-version: 14.0], [device: iPad7,11, os-version: 13.0], [device: iPad6,7, os-version: 14.0], [device: iPad5,4, os-version: 13.0], [device: iPad7,6, os-version: 14.0], [device: iPad5,2, os-version: 13.0], and [device: iPad7,12, os-version: 14.0]
+App + On Demand Resources size: 7,3 MB compressed, 19,2 MB uncompressed
+App size: 7,3 MB compressed, 19,2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ConseillerFitness-81FC9004-DE4B-4CE9-B5D2-C57429725C6C.ipa
+Supported variant descriptors: [device: iPhone8,1, os-version: 14.0], [device: iPhone8,1, os-version: 13.0], [device: iPod9,1, os-version: 14.0], [device: iPhone8,4, os-version: 13.0], [device: iPod9,1, os-version: 13.0], and [device: iPhone8,4, os-version: 14.0]
+App + On Demand Resources size: 7,3 MB compressed, 19,2 MB uncompressed
+App size: 7,3 MB compressed, 19,2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ConseillerFitness-8625F0ED-70BA-4D68-91EA-63AA7212EF92.ipa
+Supported variant descriptors: [device: iPhone10,2, os-version: 14.0], [device: iPhone10,6, os-version: 14.0], [device: iPhone9,2, os-version: 14.0], [device: iPhone11,2, os-version: 14.0], [device: iPhone12,5, os-version: 13.0], [device: iPhone12,3, os-version: 14.0], [device: iPhone9,4, os-version: 14.0], [device: iPhone9,2, os-version: 13.0], [device: iPhone11,6, os-version: 13.0], [device: iPhone10,5, os-version: 14.0], [device: iPhone10,5, os-version: 13.0], [device: iPhone13,2, os-version: 14.0], [device: iPhone9,4, os-version: 13.0], [device: iPhone10,6, os-version: 13.0], [device: iPhone10,2, os-version: 13.0], [device: iPhone12,3, os-version: 13.0], [device: iPhone10,3, os-version: 14.0], [device: iPhone11,2, os-version: 13.0], [device: iPhone13,4, os-version: 14.0], [device: iPhone11,4, os-version: 14.0], [device: iPhone13,1, os-version: 14.0], [device: iPhone11,6, os-version: 14.0], [device: iPhone12,5, os-version: 14.0], [device: iPhone11,4, os-version: 13.0], [device: iPhone13,3, os-version: 14.0], and [device: iPhone10,3, os-version: 13.0]
+App + On Demand Resources size: 7,3 MB compressed, 19,2 MB uncompressed
+App size: 7,3 MB compressed, 19,2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ConseillerFitness-93EE9677-0B71-444E-88BD-5748A5E7828A.ipa
+Supported variant descriptors: [device: iPad7,12, os-version: 15.0], [device: iPad11,6, os-version: 15.0], [device: iPad6,8, os-version: 15.0], [device: iPad5,3, os-version: 15.0], [device: iPad12,2, os-version: 15.0], [device: iPad12,1, os-version: 15.0], [device: iPad7,5, os-version: 15.0], [device: iPad6,7, os-version: 15.0], [device: iPad7,11, os-version: 15.0], [device: iPad6,11, os-version: 15.0], [device: iPad5,2, os-version: 15.0], [device: iPad11,7, os-version: 15.0], [device: iPad5,1, os-version: 15.0], [device: iPad5,4, os-version: 15.0], [device: iPad6,12, os-version: 15.0], and [device: iPad7,6, os-version: 15.0]
+App + On Demand Resources size: 7,3 MB compressed, 19,2 MB uncompressed
+App size: 7,3 MB compressed, 19,2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ConseillerFitness-BFC29C73-BC5F-4503-BA66-B1BAAD34D2EB.ipa
+Supported variant descriptors: [device: iPhone9,3, os-version: 15.0], [device: iPhone12,8, os-version: 15.0], [device: iPhone10,1, os-version: 15.0], [device: iPhone10,4, os-version: 15.0], and [device: iPhone9,1, os-version: 15.0]
+App + On Demand Resources size: 7,3 MB compressed, 19,2 MB uncompressed
+App size: 7,3 MB compressed, 19,2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ConseillerFitness-C563FBEA-3201-4115-A31E-8A88534B073C.ipa
+Supported variant descriptors: [device: iPad6,12, os-version: 11.0], [device: iPad4,4, os-version: 12.0], [device: iPad6,12, os-version: 12.2], [device: iPad6,11, os-version: 11.0], [device: iPad6,8, os-version: 12.0], [device: iPad4,8, os-version: 12.0], [device: iPad6,8, os-version: 12.2], [device: iPad4,6, os-version: 12.0], [device: iPad7,5, os-version: 12.0], [device: iPad7,6, os-version: 11.0], [device: iPad6,7, os-version: 11.0], [device: iPad4,5, os-version: 12.2], [device: iPad7,6, os-version: 12.0], [device: iPad5,3, os-version: 12.0], [device: iPad4,1, os-version: 12.0], [device: iPad4,9, os-version: 11.0], [device: iPad5,3, os-version: 12.2], [device: iPad4,5, os-version: 11.0], [device: iPad5,1, os-version: 11.0], [device: iPad5,4, os-version: 12.0], [device: iPad6,11, os-version: 12.0], [device: iPad4,4, os-version: 11.0], [device: iPad4,5, os-version: 12.0], [device: iPad6,7, os-version: 12.2], [device: iPad4,7, os-version: 12.2], [device: iPad4,3, os-version: 11.0], [device: iPad5,4, os-version: 12.2], [device: iPad7,6, os-version: 12.2], [device: iPad4,2, os-version: 12.0], [device: iPad4,3, os-version: 12.2], [device: iPad4,2, os-version: 11.0], [device: iPad4,6, os-version: 11.0], [device: iPad4,3, os-version: 12.0], [device: iPad5,3, os-version: 11.0], [device: iPad6,8, os-version: 11.0], [device: iPad6,7, os-version: 12.0], [device: iPad5,2, os-version: 11.0], [device: iPad6,12, os-version: 12.0], [device: iPad4,8, os-version: 12.2], [device: iPad4,7, os-version: 12.0], [device: iPad5,4, os-version: 11.0], [device: iPad4,2, os-version: 12.2], [device: iPad6,11, os-version: 12.2], [device: iPad5,1, os-version: 12.2], [device: iPad5,1, os-version: 12.0], [device: iPad4,9, os-version: 12.2], [device: iPad5,2, os-version: 12.2], [device: iPad4,9, os-version: 12.0], [device: iPad4,8, os-version: 11.0], [device: iPad4,7, os-version: 11.0], [device: iPad4,4, os-version: 12.2], [device: iPad7,5, os-version: 12.2], [device: iPad4,1, os-version: 12.2], [device: iPad4,1, os-version: 11.0], [device: iPad7,5, os-version: 11.0], [device: iPad4,6, os-version: 12.2], and [device: iPad5,2, os-version: 12.0]
+App + On Demand Resources size: 7,3 MB compressed, 19,2 MB uncompressed
+App size: 7,3 MB compressed, 19,2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ConseillerFitness-C70D4144-A8D5-4601-A639-3CDED9CE5ACB.ipa
+Supported variant descriptors: [device: iPad8,3, os-version: 12.0], [device: iPad11,2, os-version: 12.2], [device: iPad7,3, os-version: 12.0], [device: iPad6,3, os-version: 11.0], [device: iPad7,1, os-version: 12.2], [device: iPad8,5, os-version: 12.2], [device: iPad7,4, os-version: 12.0], [device: iPad8,3, os-version: 12.2], [device: iPad8,6, os-version: 12.0], [device: iPad8,2, os-version: 12.0], [device: iPad7,1, os-version: 11.0], [device: iPad7,4, os-version: 11.0], [device: iPad8,5, os-version: 12.0], [device: iPad6,4, os-version: 12.0], [device: iPad7,2, os-version: 11.0], [device: iPad8,1, os-version: 12.2], [device: iPad7,3, os-version: 11.0], [device: iPad11,4, os-version: 12.2], [device: iPad6,3, os-version: 12.0], [device: iPad7,2, os-version: 12.0], [device: iPad7,2, os-version: 12.2], [device: iPad8,8, os-version: 12.2], [device: iPad7,3, os-version: 12.2], [device: iPad11,1, os-version: 12.2], [device: iPad8,4, os-version: 12.0], [device: iPad8,8, os-version: 12.0], [device: iPad8,4, os-version: 12.2], [device: iPad11,3, os-version: 12.2], [device: iPad8,7, os-version: 12.2], [device: iPad6,3, os-version: 12.2], [device: iPad8,6, os-version: 12.2], [device: iPad8,2, os-version: 12.2], [device: iPad6,4, os-version: 11.0], [device: iPad7,1, os-version: 12.0], [device: iPad8,1, os-version: 12.0], [device: iPad8,7, os-version: 12.0], [device: iPad7,4, os-version: 12.2], and [device: iPad6,4, os-version: 12.2]
+App + On Demand Resources size: 7,3 MB compressed, 19,2 MB uncompressed
+App size: 7,3 MB compressed, 19,2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ConseillerFitness-D2885633-CF99-4253-98F8-B1E8C26F2A29.ipa
+Supported variant descriptors: [device: iPhone7,1, os-version: 12.0], [device: iPhone8,2, os-version: 12.0], [device: iPhone8,2, os-version: 12.2], [device: iPhone7,1, os-version: 11.0], [device: iPhone7,1, os-version: 12.2], and [device: iPhone8,2, os-version: 11.0]
+App + On Demand Resources size: 7,3 MB compressed, 19,2 MB uncompressed
+App size: 7,3 MB compressed, 19,2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ConseillerFitness-D87A24DE-6824-4244-87D8-9CD8E06D5259.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 14.0] and [device: iPhone8,2, os-version: 13.0]
+App + On Demand Resources size: 7,3 MB compressed, 19,2 MB uncompressed
+App size: 7,3 MB compressed, 19,2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ConseillerFitness-DE232DD9-0979-4789-91C8-2B5E80AC94E4.ipa
+Supported variant descriptors: [device: iPhone12,8, os-version: 13.0], [device: iPhone10,4, os-version: 13.0], [device: iPhone9,1, os-version: 14.0], [device: iPhone10,1, os-version: 13.0], [device: iPhone10,4, os-version: 14.0], [device: iPhone12,8, os-version: 14.0], [device: iPhone9,1, os-version: 13.0], [device: iPhone10,1, os-version: 14.0], [device: iPhone9,3, os-version: 13.0], and [device: iPhone9,3, os-version: 14.0]
+App + On Demand Resources size: 7,3 MB compressed, 19,2 MB uncompressed
+App size: 7,3 MB compressed, 19,2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ConseillerFitness-ED3BF6D4-BB7C-4B2E-9D68-CCE13707D583.ipa
+Supported variant descriptors: [device: iPod9,1, os-version: 12.2], [device: iPhone6,2, os-version: 12.2], [device: iPhone8,1, os-version: 12.2], [device: iPhone6,2, os-version: 12.0], [device: iPhone8,4, os-version: 12.0], [device: iPhone6,1, os-version: 11.0], [device: iPhone8,1, os-version: 11.0], [device: iPhone6,2, os-version: 11.0], [device: iPhone8,4, os-version: 11.0], [device: iPhone7,2, os-version: 11.0], [device: iPhone6,1, os-version: 12.2], [device: iPod7,1, os-version: 11.0], [device: iPhone7,2, os-version: 12.0], [device: iPhone7,2, os-version: 12.2], [device: iPod7,1, os-version: 12.2], [device: iPod7,1, os-version: 12.0], [device: iPhone8,4, os-version: 12.2], [device: iPhone8,1, os-version: 12.0], and [device: iPhone6,1, os-version: 12.0]
+App + On Demand Resources size: 7,3 MB compressed, 19,2 MB uncompressed
+App size: 7,3 MB compressed, 19,2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ConseillerFitness-F26CAAFA-05C5-49D8-828A-99AC8FEA0C2D.ipa
+Supported variant descriptors: [device: iPhone10,4, os-version: 12.0], [device: iPhone10,1, os-version: 12.2], [device: iPhone10,4, os-version: 11.0], [device: iPhone9,1, os-version: 12.0], [device: iPhone9,3, os-version: 12.0], [device: iPhone9,1, os-version: 11.0], [device: iPhone9,3, os-version: 11.0], [device: iPhone10,1, os-version: 11.0], [device: iPhone10,4, os-version: 12.2], [device: iPhone9,1, os-version: 12.2], [device: iPhone10,1, os-version: 12.0], and [device: iPhone9,3, os-version: 12.2]
+App + On Demand Resources size: 7,3 MB compressed, 19,2 MB uncompressed
+App size: 7,3 MB compressed, 19,2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ConseillerFitness.ipa
+Supported variant descriptors: Universal
+App + On Demand Resources size: 7,3 MB compressed, 19,3 MB uncompressed
+App size: 7,3 MB compressed, 19,3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed

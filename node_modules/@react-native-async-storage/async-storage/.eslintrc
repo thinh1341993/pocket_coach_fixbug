@@ -1,0 +1,17 @@
+{
+  "extends": "@react-native-community",
+  "globals": {
+    "it": true,
+    "expect": true,
+    "element": true,
+    "describe": true,
+    "xdescribe": true,
+    "by": true,
+    "device": true,
+    "beforeAll": true,
+    "beforeEach": true,
+    "afterAll": true,
+    "jest": true,
+    "jasmine": true
+  }
+}

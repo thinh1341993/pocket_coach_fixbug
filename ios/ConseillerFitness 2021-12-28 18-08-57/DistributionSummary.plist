@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConseillerFitness.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>F5983A1E07B033A0F2EDAAF43DAA4F0241B8294F</string>
+				<key>dateExpires</key>
+				<string>28/12/2022</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>355A8K4RN7.org.reactjs.native.example.ConseillerFitness</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>355A8K4RN7</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>355A8K4RN7.org.reactjs.native.example.ConseillerFitness</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>ConseillerFitness.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>f3b126cf-262b-420c-ac5e-5553922d4ac8</string>
+				<key>dateExpires</key>
+				<string>28/12/2022</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: org.reactjs.native.example.ConseillerFitness</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>355A8K4RN7</string>
+				<key>name</key>
+				<string>dia-eddine mekroudi</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
